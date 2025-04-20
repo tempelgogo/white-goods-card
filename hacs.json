@@ -1,7 +1,7 @@
 {
   "name": "White Goods Card",
   "content_in_root": true,
-  "filename": "src/white-goods-card.js",
+  "filename": "white-goods-card.js",
   "render_readme": true,
   "description": "A Lovelace card for displaying the state of white goods like washing machines, dishwashers, and dryers.",
   "domains": ["lovelace"],
