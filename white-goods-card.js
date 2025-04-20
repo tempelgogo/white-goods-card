@@ -46,7 +46,7 @@ class WhiteGoodsCard extends HTMLElement {
     this.applianceConfigs = {
       wama: {
         name: "Waschmaschine",
-        image: "/local/waschmaschine.png",
+        image: "/hacsfiles/white-goods-card/assets/washing_machine.svg",
         labels: {
           state: "Zustand",
           time: "Restlaufzeit",
@@ -55,7 +55,7 @@ class WhiteGoodsCard extends HTMLElement {
       },
       diwa: {
         name: "Spülmaschine",
-        image: "/local/geschirrspueler.png",
+        image: "/hacsfiles/white-goods-card/assets/dish_washer.svg",
         labels: {
           state: "Zustand",
           time: "Spülzeit",
@@ -64,7 +64,7 @@ class WhiteGoodsCard extends HTMLElement {
       },
       dryer: {
         name: "Trockner",
-        image: "/local/trockner.png",
+        image: "/hacsfiles/white-goods-card/assets/tumbler_dryer.svg",
         labels: {
           state: "Zustand",
           time: "Trocknungszeit",
