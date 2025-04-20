@@ -1,8 +1,8 @@
 # 🧺 White Goods Card
 
-A customizable Lovelace card for Home Assistant to visually monitor the state of your **washing machine**, **dishwasher**, or **dryer** – clean and smart.
+**early pre-alpha version. may crash your system or burn down your house**
 
-![preview](https://github.com/dein-github-name/white-goods-card/assets/preview.png)
+A customizable Lovelace card for Home Assistant to visually monitor the state of your **washing machine**, **dishwasher**, or **dryer** – clean and smart.
 
 ---
 
